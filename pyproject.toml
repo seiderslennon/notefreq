@@ -1,0 +1,4 @@
+[project]
+name = "notefreq"
+version = "0.1.0"
+scripts = { notefreq = "notefreq:main" }
