@@ -1,3 +1,3 @@
-pipx ensurepath
-cd /path/to/notefreq
-pipx install --editable .
+pipx ensurepath  
+cd /path/to/notefreq  
+pipx install --editable .  
